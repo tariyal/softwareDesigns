@@ -17,11 +17,13 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" />
         </processorPath>
         <module name="Decorator" />
+        <module name="TemplateMethod" />
         <module name="Facade" />
         <module name="Singleton" />
         <module name="Builder" />
         <module name="Observer" />
         <module name="Factory" />
+        <module name="Strategy" />
         <module name="ChainOfResponcibility" />
       </profile>
     </annotationProcessing>
@@ -35,6 +37,8 @@
       <module name="Factory" target="8" />
       <module name="Observer" target="1.8" />
       <module name="Singleton" target="1.8" />
+      <module name="Strategy" target="1.8" />
+      <module name="TemplateMethod" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
