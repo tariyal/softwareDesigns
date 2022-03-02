@@ -1,0 +1,6 @@
+com/gaurasis/singleton/Tower.class
+com/gaurasis/singleton/OnDemandTower$Helper.class
+com/gaurasis/singleton/OnDemandTower.class
+com/gaurasis/singleton/App.class
+com/gaurasis/singleton/ThreadSafeLazyTower.class
+com/gaurasis/singleton/OnDemandTower$1.class
